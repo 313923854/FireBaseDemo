@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "162225467837",
+    "firebase_url": "https://fir-demo-55bb9.firebaseio.com",
+    "project_id": "fir-demo-55bb9",
+    "storage_bucket": "fir-demo-55bb9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162225467837:android:d743b909ce435469",
+        "android_client_info": {
+          "package_name": "com.pinger.firebasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162225467837-2virhbhoareh837c6loql1qpr265l9v6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7s9h4h5TGhQ4xUmYLDXZ9C2B7U7zloSM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
